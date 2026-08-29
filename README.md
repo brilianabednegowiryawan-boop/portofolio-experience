@@ -1,2 +1,2 @@
-# portofolio-experience
-kumpulan file dokumentasi konfigurasi server, jaringan, praktik, hardware, dan software. 
+# technical-portfolio
+Dokumentasi praktik dan repositori proyek teknis meliputi administrasi jaringan, sistem server, perancangan hardware (PCB), dan software.
