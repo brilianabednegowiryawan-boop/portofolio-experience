@@ -1,2 +1,2 @@
 # portofolio-experience
-kumpulan dokumentasi konfigurasi server dan jaringan.
+kumpulan file dokumentasi konfigurasi server, jaringan, praktik, hardware, dan software. 
