@@ -94,6 +94,8 @@ Skema rangkaian pengatur kecepatan/timer berbasis IC NE555 dan Transistor 2N3055
 Visualisasi tata letak PCB (jalur tembaga & penataan komponen) yang digunakan pada praktikum penyolderan:
 
 <img src="solder.jpeg" alt="Layout PCB Proyek Solder" width="60%">
+<img src="pcb.jpeg" alt="Layout PCB Proyek Solder" width="60%">
+<img src="pcb2.jpeg" alt="Layout PCB Proyek Solder" width="60%">
 
 ---
 
