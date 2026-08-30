@@ -82,18 +82,18 @@ Folder ini berisi skema simulasi rangkaian elektronika dasar hingga desain PCB p
 #### A. Rangkaian Lampu Kedip (Astable Multivibrator)
 Rangkaian ini memanfaatkan 2 buah transistor dan kapasitor $10\mu\text{F}$ untuk menciptakan efek lampu kedip bergantian (flip-flop):
 
-<img src="img/skemalampu.jpeg" alt="Rangkaian Lampu Kedip" width="70%">
+<img src="skemalampu.jpeg" alt="Rangkaian Lampu Kedip" width="70%">
 *Gambar: Skema Rangkaian Lampu Kedip pada Livewire.*
 
 #### B. Skema Kontrol Motor DC / PWM (IC 555)
 Skema rangkaian pengatur kecepatan/timer berbasis IC NE555 dan Transistor 2N3055 untuk penggerak Motor DC:
 
-<img src="img/skema.jpeg" alt="Skema Elektronika 555" width="65%">
+<img src="skema.jpeg" alt="Skema Elektronika 555" width="65%">
 
 #### C. Desain PCB Layout & Proyek Solder
 Visualisasi tata letak PCB (jalur tembaga & penataan komponen) yang digunakan pada praktikum penyolderan:
 
-<img src="img/solder.jpeg" alt="Layout PCB Proyek Solder" width="60%">
+<img src="solder.jpeg" alt="Layout PCB Proyek Solder" width="60%">
 
 ---
 
