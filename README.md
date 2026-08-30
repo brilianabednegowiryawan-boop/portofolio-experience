@@ -64,11 +64,11 @@ Folder ini berisi file asli topologi jaringan (`.pkt` dan `.gns3`) yang dapat di
 * **GNS3:** Proyek simulasi routing statis menggunakan router GNS3 (`.gns3`).
 
 #### Contoh Topologi Routing Dinamis RIP (Cisco Packet Tracer)
-<img src="img/topologi_rip.png" alt="Topologi RIP Cisco" width="80%">
+<img src="ripcisco.jpeg" alt="Topologi RIP Cisco" width="80%">
 *Gambar: Contoh topologi praktikum routing RIP.*
 
 #### Contoh Topologi Routing Statis (GNS3)
-<img src="img/topologi_gns3_static.png" alt="Topologi Statis GNS3" width="80%">
+<img src="gns3.jpeg" alt="Topologi Statis GNS3" width="80%">
 *Gambar: Contoh topologi praktikum routing statis GNS3.*
 
 > 💡 *Detail alokasi IP, subnetting `/29`, dan tabel routing untuk tiap router tercantum lengkap pada file laporan PDF di repositori.*
