@@ -99,6 +99,29 @@ Visualisasi tata letak PCB (jalur tembaga & penataan komponen) yang digunakan pa
 
 ---
 
+### 4. 📂 Proyek Arduino IDE & Mikrokontroler
+
+Folder ini berisi kumpulan *source code* (`.ino`), logika pemrograman, dan proyek eksperimen mikrokontroler yang dikembangkan menggunakan **Arduino IDE**.
+
+#### Daftar Proyek & Sensor:
+* **Sensor Ultrasonik & Relay:** Kontrol aktuator (Relay 2 Channel) berbasis jarak objek.
+* **Sensor Jarak & Buzzer (Indikator Bee/Buzzer):** Sistem alarm/peringatan jarak menggunakan buzzer.
+* **Simulasi Lampu Lalu Lintas (Traffic Light):** Logika pewaktuan (*timing control*) lampu lalu lintas 3 warna.
+* **Kontrol Lampu & Push Button (Tombol Tekan):**
+  * Kontrol sakelar tekan (Toggle On/Off).
+  * Sistem *Button Press to Hold / Release to Turn Off* (Mati-Tekan-Hidup).
+  * Lampu percobaan sempurna (sistem pengujian logika masukan dasar).
+ 
+#### A. Simulasi Sensor Ultrasonik & Indikator Buzzer ("Mata Lebah")
+
+Rangkaian ini menggunakan sensor ultrasonik (HC-SR04) yang menyerupai bentuk "mata lebah" untuk mendeteksi jarak objek di depannya. Ketika objek terdeteksi pada jarak tertentu, sinyal input diproses oleh Arduino IDE untuk mengaktifkan indikator suara (*buzzer*) dan LED sebagai sistem peringatan dini.
+
+<img src="ultrasonik.jpeg" alt="Sensor Ultrasonik dan Buzzer Mata Lebah" width="70%">
+<img src="sensorlebah.jpeg" alt="Sensor Ultrasonik dan Buzzer Mata Lebah" width="70%">
+*Gambar: Skema dan Rangkaian Sensor Ultrasonik HC-SR04 terintegrasi dengan Buzzer pada Arduino.*
+
+---
+
 ## 👨‍💻 Kontributor
 
 *   **Nama:** Brilian Abednego Wiryawan
