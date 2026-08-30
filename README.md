@@ -88,7 +88,7 @@ Rangkaian ini memanfaatkan 2 buah transistor dan kapasitor $10\mu\text{F}$ untuk
 #### B. Skema Kontrol Motor DC / PWM (IC 555)
 Skema rangkaian pengatur kecepatan/timer berbasis IC NE555 dan Transistor 2N3055 untuk penggerak Motor DC:
 
-<img src="skema.jpeg" alt="Skema Elektronika 555" width="65%">
+<img src="dcmotor.jpeg" alt="Skema Elektronika 555" width="65%">
 
 #### C. Desain PCB Layout & Proyek Solder
 Visualisasi tata letak PCB (jalur tembaga & penataan komponen) yang digunakan pada praktikum penyolderan:
